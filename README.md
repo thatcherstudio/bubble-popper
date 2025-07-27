@@ -124,7 +124,7 @@ For support or questions:
 
 ## 📄 License
 
-[Your chosen license - e.g., MIT, Apache 2.0]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
