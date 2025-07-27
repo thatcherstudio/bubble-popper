@@ -1,6 +1,6 @@
 # Privacy Policy for Bubble Popper
 
-**Effective Date:** [INSERT DATE]
+**Effective Date:** January 1, 2024
 
 ## Overview
 
@@ -62,7 +62,7 @@ While Bubble Popper may require internet access for initial download from the Ap
 
 If you have any questions about this privacy policy or our practices, please contact us at:
 
-**Email:** [INSERT YOUR EMAIL]
+**Email:** privacy@thatcherstudio.com
 **Subject Line:** Bubble Popper Privacy Policy
 
 ## Changes to This Policy
